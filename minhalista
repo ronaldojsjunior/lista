@@ -1,0 +1,91 @@
+#EXTM3U
+####################################################### Canais | Séries e Filmes
+#EXTINF:-1 group-title="Canais | Séries e Filmes", HBO
+http://streamer.sattvacabo.com.br/HBO/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 group-title="Canais | Séries e Filmes", HBO2
+http://streamer.sattvacabo.com.br/HBO2/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 group-title="Canais | Séries e Filmes", HBO_FAMILY
+http://streamer.sattvacabo.com.br/HBO_FAMILY/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 group-title="Canais | Séries e Filmes", WARNER_HD
+http://streamer.sattvacabo.com.br/WARNER_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 group-title="Canais | Séries e Filmes", WARNER
+http://79.127.238.228:14647
+#EXTINF:-1 group-title="Canais | Séries e Filmes", WARNER2
+https://cdn-sp2.satlabscloud.com.br/WARNER_HD/720p.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 group-title="Canais | Séries e Filmes", CINEMAX
+http://streamer.sattvacabo.com.br/CINEMAX/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 group-title="Canais | Séries e Filmes", TNT
+http://streamer.sattvacabo.com.br/TNT/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 group-title="Canais | Séries e Filmes", TNT_NOVELAS
+http://streamer.sattvacabo.com.br/TNT_NOVELAS/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 group-title="Canais | Séries e Filmes", TNT_SÉRIES
+http://streamer.sattvacabo.com.br/TNT_SERIES/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 group-title="Canais | Séries e Filmes", TELECINE_PREMIUM
+http://s2.micineovs.com/TELECINEPREMIUM/index.m3u8?token=16FOTt9Ae2m8
+#EXTINF:-1 group-title="Canais | Séries e Filmes", TELECINE_PIPOCA
+https://s2.micineovs.com/TELECINEPIPOCA/index.m3u8?token=16FOTt9Ae2m8
+#EXTINF:-1 group-title="Canais | Séries e Filmes", MEGAPIX
+https://s2.micineovs.com/MEGAPIX/index.m3u8?token=16FOTt9Ae2m8
+ 
+####################################################### Canais | Notícias
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3G9NiWt.png" group-title="Canais | NOTÍCIAS",TVD News FHD
+http://201.159.95.110:25461/live/site/site/666.m3u8
+ 
+####################################################### Canais | Esportes
+ 
+#EXTINF:-1 group-title="Canais | Esportes", SPORTV
+https://s2.micineovs.com/SPTV1/index.m3u8?token=16FOTt9Ae2m8
+#EXTINF:-1 group-title="Canais | Esportes", SPORTV2
+https://s2.micineovs.com/SPTV2/index.m3u8?token=16FOTt9Ae2m8
+ 
+####################################################### Canais | Variados
+ 
+#EXTINF:-1 group-title="Canais | Variados",GLOBO_SP
+https://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Canais | Variados",SBT
+http://s2.micineovs.com/SBT/index.m3u8?token=16FOTt9Ae2m8
+ 
+####################################################### Canais | Infantil (Lucas)
+ 
+#EXTINF:-1 group-title="Canais | Infantil(Lucas)", Patrulha Canina
+http://46.151.196.223:14825
+#EXTINF:-1 group-title="Canais | Infantil(Lucas)", A CASA DO MICKEY
+http://46.151.196.223:14967
+#EXTINF:-1 group-title="Canais | Infantil(Lucas)", TURMA DO PATETA
+http://46.151.196.223:14839
+#EXTINF:-1 group-title="Canais | Infantil(Lucas)", Tooncast
+https://cdn-sp2.satlabscloud.com.br/TOONCAST/720p.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 group-title="Canais | Infantil(Lucas)", Cartoon Network
+https://cdn-sp2.satlabscloud.com.br/CARTOON_HD/720p.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
+#EXTINF:-1 group-title="Canais | Infantil(Lucas)", CARTOONITO
+http://15.235.42.84:8088/rj-live/rj-live/600042.ts
+#EXTINF:-1 group-title="Canais | Infantil(Lucas)", DISCOVERY KIDS
+http://15.235.42.84:8088/rj-live/rj-live/600062.ts
+#EXTINF:-1 group-title="Canais | Infantil(Lucas)", BABY LOONEY TUNES
+http://cdnturbox.com:80/live/20264972081300/163797690741/1128838.ts
+####################################################### Canais | Série
+ 
+#EXTINF:-1 group-title="Canais | Séries", The BigBang Theory 1
+http://46.151.196.223:14160
+#EXTINF:-1 group-title="Canais | Séries", The BigBang Theory 2
+http://46.151.196.223:14161
+#EXTINF:-1 group-title="Canais | Séries", The BigBang Theory 3
+http://46.151.196.223:14162
+#EXTINF:-1 group-title="Canais | Séries", The BigBang Theory 4
+http://46.151.196.223:14169
+#EXTINF:-1 group-title="Canais | Séries", Dois homens e meio 1
+http://46.151.196.223:14176
+#EXTINF:-1 group-title="Canais | Séries", Dois homens e meio 2
+http://46.151.196.223:14187
+#EXTINF:-1 group-title="Canais | Séries", Todo mundo odeia o cris
+http://46.151.196.223:14116
+#EXTINF:-1 group-title="Canais | Séries", Eu a patroa e as crianças 1
+http://46.151.196.223:14115
+#EXTINF:-1 group-title="Canais | Séries", Eu a patroa e as crianças 2
+http://46.151.196.223:14113
+ 
+ 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Filme 1" tvg-logo="" group-title="Filmes" tvg-type="movie" type="movie",Filme Exemplo 1
+http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt21382296.mp4
